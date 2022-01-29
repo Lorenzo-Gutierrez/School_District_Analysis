@@ -13,11 +13,11 @@ The purpose of this project was to repeat an analysis of school test scores that
 ##Results
 ###District Summary
 The district summary was only slightly impacted, with the average scores falling by no more than .3 or a percent. You can see the comparison below, with the updated summary on top.
-![District Summary Compare](Resources/District_summary_compare.png)
+![District Summary Compare](resources/District_summary_compare.png)
 
 ###School Summary
 The summary for Thomas High School was also impacted by less than .3 of a percent as shown below.
-![Thomas Summary Compare](Resources/Thomas_summary_compare.png)
+![Thomas Summary Compare](resources/Thomas_summary_compare.png)
 
 ###How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 The changes did not increase or decrease the ranking of Thomas High School
